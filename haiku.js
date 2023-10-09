@@ -3,9 +3,9 @@
 //plak hier de haiku functions onder elkaar
 function Haiku1(){
     console.log("haiku by:","fox");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("zou ik ze pakken,");
+    console.log("de witvis in 't wier bijeen");
+    console.log("dan schoten ze weg");
 }
 function Haiku2(){
     console.log("haiku by:","maaike");
