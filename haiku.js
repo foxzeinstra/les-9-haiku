@@ -15,9 +15,9 @@ function Haiku2(){
 }
 function Haiku3(){
     console.log("haiku by:","ole");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("door zomerregens");
+    console.log("zijn de kraanvogelpoten");
+    console.log("korter geworden");
 }
 
 //laat de code hieronder met rust
