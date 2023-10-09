@@ -9,9 +9,9 @@ function Haiku1(){
 }
 function Haiku2(){
     console.log("haiku by:","maaike");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("Het asfalt is nieuw");
+    console.log("De weg is bijna gereed");
+    console.log("Toch loopt hij nog dood");
 }
 function Haiku3(){
     console.log("haiku by:","ole");
